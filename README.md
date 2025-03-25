@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aditya5495
+- 👋 Hi, I’m Aditya Singh
 - 👀 I’m interested in coding, problem-solving, AI/ML, and software development.
 - 🌱 I’m currently learning data structures, algorithms, and web development.
 - 💞️ I’m looking to collaborate on open-source projects, hackathons, and tech communities.
